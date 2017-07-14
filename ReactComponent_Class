@@ -1,0 +1,26 @@
+<snippet>
+  <content><![CDATA[
+import React, { Component, PropTypes } from 'react';
+// import './style.css';
+
+class ${1:name} extends Component {
+  render() {
+    return (
+      <div>
+        
+      </div>
+    );
+  }
+}
+
+${1:name}.propTypes = {
+
+};
+
+export default ${1:name};
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>rccl</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

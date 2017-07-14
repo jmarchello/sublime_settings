@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"All Autocomplete",
+		"Babel",
+		"Babel Snippets",
+		"Case Conversion",
+		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
+		"Dracula Color Scheme",
+		"Emmet",
+		"FuzzyFilePath",
+		"Git Conflict Resolver",
+		"GitGutter",
+		"GotoDocumentation",
+		"Javascript Beautify",
+		"JavaScript Completions",
+		"JsFormat",
+		"Keymaps",
+		"Markdown Preview",
+		"Monokai Gray",
+		"Package Control",
+		"React Templates",
+		"ReadmePlease",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-ruby",
+		"Theme - SoDaReloaded"
+	]
+}

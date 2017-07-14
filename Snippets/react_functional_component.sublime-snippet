@@ -1,0 +1,20 @@
+<snippet>
+  <content><![CDATA[
+import React, { PropTypes } from 'react';
+
+const ${1:ComponentName} = (props) => {
+  return (
+    <div>
+      ${2}
+    </div>
+  );
+};
+
+export default HeaderTabBar;
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>rfc</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+  <scope>source.jsx</scope>
+</snippet>
